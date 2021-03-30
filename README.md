@@ -1,8 +1,9 @@
 # dev-podcasts
-some podcasts about development I listen to 🎧💻
+Some podcasts about development that I follow 🎧 💻
 
-![](https://media.giphy.com/media/vh9isNb4S2Spa/giphy.gif)
-
+### [Ladybug](https://www.ladybug.dev)
+Kelly Vaughn, Ali Spittel, Emma Bostian & Sidney Buckner are debugging the tech industry.  
+-"We started the Ladybug Podcast as a few lady Twitter acquaintances looking to add our voices to the male-dominated tech podcast space."
 
 ### [Syntax](https://syntax.fm)
 
